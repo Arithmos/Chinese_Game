@@ -1,2 +1,2 @@
 # Chinese_Game
-Chinese vocabulary game coded in Java.
+Chinese Game was completed and uploaded on 1/9/15.
